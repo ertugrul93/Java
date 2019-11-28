@@ -5,7 +5,7 @@ package com.company;
 //de totale afgelegde afstand te berekenen.
 
 import java.util.Scanner;
-public class Main {
+public class Zeilen {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in); //maak een scanner klasse aan
